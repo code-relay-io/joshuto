@@ -9,6 +9,16 @@ If you don't finish, add your next task to the readme.md. Oh and when you're don
 
 Email with questions
 
+## Task 1 status
+
+See comments in original issue, this may be a *non* issue.
+
+Wait for input to determin if there is actually a problem to solve.
+
+----
+
+<!-- END Code Relay comments -->
+
 ![Rust](https://github.com/kamiyaa/joshuto/workflows/Rust/badge.svg)
 
 # joshuto
